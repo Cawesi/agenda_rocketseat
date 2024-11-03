@@ -21,6 +21,8 @@
     - Deve ser possível apagar um contato
 """
 
+# Arquivo principal
+
 from cadastro import adicionar_contato, editar_cadastro, excluir_contato
 import visualizacao
 

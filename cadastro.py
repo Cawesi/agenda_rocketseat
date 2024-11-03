@@ -218,3 +218,4 @@ def excluir_contato(lista_contatos, f_visualizar):
         escolha_contato = input("\nEscolha uma opção válida\n--> ").strip()
     lista_contatos.remove(lista_contatos[int(escolha_contato)-1])
     return
+    
